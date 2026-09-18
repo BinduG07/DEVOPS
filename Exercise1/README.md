@@ -71,19 +71,19 @@ The Nginx welcome page was successfully displayed in the browser.
 
 ### Minikube Installation
 
-![Minikube Installation](.Screenshots/installation.png)
+![Minikube Installation](./Screenshots/01-minikube-installation.png)
 
 ### Minikube Cluster Started
 
-![Minikube Start](.Screenshots/minikube_started.png)
+![Minikube Start](./Screenshots/02-minikube-start.png)
 
 ### Kubernetes Pod and Service
 
-![Pod and Service](.Screenshots/kubernetes_pods_and_services.png)
+![Pod and Service](./Screenshots/03-kubernetes-pod-and-service.png)
 
 ### Nginx Welcome Page
 
-![Nginx Welcome Page](.Screenshots/Nginx_welcome_page.png)
+![Nginx Welcome Page](./Screenshots/04-nginx-welcome-page.png)
 
 ---
 
